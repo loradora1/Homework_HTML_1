@@ -1,1 +1,1 @@
-My homework for lesson #1 HTML
+My homework for HTML lessons
